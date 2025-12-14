@@ -1,11 +1,11 @@
 # Judgment Transparency Principle
 
-This repository contains the original definition of the Judgment Transparency Principle
-(also known as the User-Perceivable Judgment Principle).
+This repository contains the original definition of the Judgment Transparency Principle.
 
-- Author: [Your Full Name]
-- Original documents:
-  - JTP.md (English)
-  - JTP_ja.md (Japanese)
+- [Original text (English)](./JTP.md)
+- [原典（日本語）](./JTP_ja.md)
 
-This repository serves as the canonical reference point.
+This document defines a principle.  
+It is not an implementation guide.
+
+Licensed under CC BY 4.0.
