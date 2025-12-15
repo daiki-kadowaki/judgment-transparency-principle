@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Judgment Transparency Principle"
+authors:
+  - family-names: Kadowaki
+    given-names: Daiki
+abstract: >
+  A foundational principle stating that no system may enforce outcomes
+  based on judgments that are not perceivable by the user.
+license: CC-BY-4.0
+repository-code: https://github.com/daiki-kadowaki/judgement-transparency-principle
