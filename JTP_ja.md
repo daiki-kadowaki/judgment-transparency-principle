@@ -1,7 +1,7 @@
 
 判断透明性原則
 
-（Judgment Transparency Principle 
+（Judgment Transparency Principle）
 
 ⸻
 
