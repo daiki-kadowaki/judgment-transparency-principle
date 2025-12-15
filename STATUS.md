@@ -1,3 +1,3 @@
-This repository contains the original and authoritative definition of the Judgment Transparency Principle.
+This repository contains the original and authoritative formulation of the Judgment Transparency Principle.
 
-本リポジトリは、判断透明性原則の原典かつ正本である。
+本リポジトリは、判断透明性原則の原典かつ権威的定義を含む。
