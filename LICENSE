@@ -17,9 +17,18 @@ Licensed under CC BY 4.0
 The full license text is available at:
 https://creativecommons.org/licenses/by/4.0/
 
-Attribution Notice  
-When attributing this work, please use the following credit:  
-"Judgment Transparency Principle"  
-by Daiki Kadowaki
+Interpretation Notice
+
+This work defines a normative principle, not an implementation specification.
+Use of the name "Judgment Transparency Principle" or "JTP" implies reference
+to this original definition. Derivative interpretations or applications must
+not be represented as altering or superseding the original principle.
+
+Attribution Notice
+
+When attributing this work, please use the following credit:
+
+"Judgment Transparency Principle (JTP), Version 1.0"
+by Daiki Kadowaki (2025)
 
 © 2025 Daiki Kadowaki
