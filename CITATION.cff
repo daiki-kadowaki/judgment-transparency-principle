@@ -4,9 +4,27 @@ authors:
   - family-names: Kadowaki
     given-names: Daiki
 abstract: >
-  A foundational principle stating that no system may enforce outcomes
-  based on judgments that are not perceivable by the user.
+  A foundational normative principle asserting that systems affecting
+  human actions or outcomes must make the existence and delegation of
+  judgment perceivable to the user, and that enforcing outcomes based on
+  imperceptible judgments undermines human agency and responsibility.
+keywords:
+  - judgment transparency
+  - human agency
+  - AI governance
+  - human-machine interface
+  - explainability
+  - decision-making systems
 license: CC-BY-4.0
 repository-code: https://github.com/daiki-kadowaki/judgment-transparency-principle
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Kadowaki
+      given-names: Daiki
+  title: "Judgment Transparency Principle"
+  version: 1.0
+  year: 2025
+  url: https://github.com/daiki-kadowaki/judgment-transparency-principle
 version: 1.0
 date-released: 2025-12-15
