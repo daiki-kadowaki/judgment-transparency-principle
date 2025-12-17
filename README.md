@@ -70,7 +70,7 @@ Judgment Transparency Principle **must not** be standardized, certified, or trea
   - Checklists or design requirements
 - Any attempt to operationalize JTP as a standard **misrepresents its nature**.
 
-JTP exists to **destabilize forgotten judgments**,  
+JTP exists to re-render perceptible judgments that have faded from human awareness,
 not to stabilize institutional criteria.
 
 ---
