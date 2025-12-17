@@ -1,98 +1,31 @@
-# Non-Standardization and Non-Compliance Notice
+NON-STANDARDIZATION NOTICE
 
-## Judgment Transparency Principle (JTP)
+This document defines the original formulation of the Judgment Transparency Principle (JTP).
 
----
+JTP is not a technical specification, implementation guideline, compliance framework,
+evaluation metric, or certification standard. It is a normative principle whose purpose
+is to function as a conceptual ground for human reflection, not as a system to be 
+satisfied, enforced, or validated.
 
-## 1. Scope and Intent
+Accordingly:
 
-The Judgment Transparency Principle (JTP) defines a **normative principle**, not a
-technical specification, implementation guideline, evaluation framework,
-certification scheme, or compliance standard.
+- There is no concept of being “JTP-compliant” or “JTP-conformant.”
+- Any attempt to formalize JTP into a standard, checklist, score, or certification scheme
+  is incompatible with the nature of this principle.
+- No organization, institution, or authority may claim ownership, custodianship,
+  or interpretive finality over JTP.
 
-This document exists to explicitly prevent the misrepresentation of JTP as a
-standardizable, certifiable, or compliance-based framework.
+The role of JTP is not to optimize systems, assign responsibility, or stabilize governance
+structures. Its role is to re-render perceptible the judgments that humans have delegated
+to systems and subsequently ceased to perceive as judgments.
 
----
+JTP exists to preserve awareness of where judgment exists, how it is displaced,
+and how human agency is reconfigured through that displacement.
 
-## 2. Prohibition of Standardization
+Any derivative interpretation, application, or implementation must clearly distinguish
+itself from this original formulation and must not be represented as completing,
+superseding, or redefining JTP.
 
-JTP MUST NOT be:
-
-- standardized,
-- formalized into a technical or normative specification,
-- incorporated into any standards body process (including but not limited to ISO,
-  IEEE, W3C, or equivalent organizations),
-- reduced to measurable criteria, checklists, benchmarks, or scoring systems.
-
-Any attempt to standardize JTP fundamentally contradicts its purpose and
-constitutes a misinterpretation of the principle itself.
-
-Standardization inherently fixes boundaries, whereas JTP exists precisely to
-expose the contingency and arbitrariness of judgment boundaries.
-
----
-
-## 3. Prohibition of Compliance and Certification Claims
-
-No system, organization, product, or policy may claim to be:
-
-- “JTP-compliant”,
-- “JTP-aligned”,
-- “certified under JTP”,
-- or equivalent expressions implying conformance, adherence, or fulfillment.
-
-JTP is not a requirement to be satisfied, but a condition to be recognized.
-Claims of compliance falsely imply that judgment transparency can be completed,
-verified, or finalized.
-
----
-
-## 4. Non-Delegability of Interpretive Authority
-
-Interpretation of JTP must not be centralized, delegated, or institutionalized
-into any authoritative body, committee, academic discipline, or governance
-structure.
-
-Any interpretation presented as definitive, official, or final constitutes a
-violation of the principle.
-
-JTP remains intentionally open to contestation, critique, and reinterpretation.
-
----
-
-## 5. Relationship to Academic and Technical Work
-
-Academic research, technical implementations, or applied discussions may
-reference JTP **only as an originating normative principle**.
-
-Such works must not present themselves as extending, refining, completing, or
-superseding JTP.
-
-Derivative works may explore implications or applications, but must clearly
-distinguish themselves from the principle itself.
-
----
-
-## 6. Language Equivalence
+This document retains normative primacy over all derivative discussions of JTP.
 
 This document has equal normative effect in all language versions.
-No language version supersedes or overrides another.
-
----
-
-## 7. Attribution Requirement
-
-Any reference to JTP must attribute the original formulation as:
-
-“Judgment Transparency Principle (JTP), Version 1.0  
-by Daiki Kadowaki (2025)”
-
----
-
-## 8. Final Clause
-
-JTP is not designed to stabilize systems.
-It exists to destabilize forgotten judgments.
-
-Any use that neutralizes this function is incompatible with the principle.
