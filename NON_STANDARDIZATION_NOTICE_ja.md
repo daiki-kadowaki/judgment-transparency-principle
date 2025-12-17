@@ -1,31 +1,34 @@
-NON-STANDARDIZATION NOTICE
+非標準化・非準拠に関する告知（NON-STANDARDIZATION NOTICE）
 
-This document defines the original formulation of the Judgment Transparency Principle (JTP).
+本書は、Judgment Transparency Principle（JTP）の原初的定式を定義するものである。
 
-JTP is not a technical specification, implementation guideline, compliance framework,
-evaluation metric, or certification standard. It is a normative principle whose purpose
-is to function as a conceptual ground for human reflection, not as a system to be
-satisfied, enforced, or validated.
+JTPは、技術仕様、実装指針、準拠基準、評価指標、認証制度ではない。
+また、満たされるべき条件や、適合・不適合を判定するための枠組みでもない。
+本原則は、達成される対象ではなく、人間の思考を支える概念的基盤として存在する。
 
-Accordingly:
+したがって、
 
-- There is no concept of being “JTP-compliant” or “JTP-conformant.”
-- Any attempt to formalize JTP into a standard, checklist, score, or certification scheme
-  is incompatible with the nature of this principle.
-- No organization, institution, or authority may claim ownership, custodianship,
-  or interpretive finality over JTP.
+・「JTP準拠」「JTP適合」という概念は存在しない  
+・JTPを標準、チェックリスト、スコア、認証制度へと形式化する試みは、
+　本原則の性質と両立しない  
+・いかなる組織・機関・権威も、JTPに対する所有権、管理権、
+　または最終的解釈権を主張してはならない  
 
-The role of JTP is not to optimize systems, assign responsibility, or stabilize governance
-structures. Its role is to re-render perceptible the judgments that humans have delegated
-to systems and subsequently ceased to perceive as judgments.
+JTPの役割は、システムに委ねられた結果として、
+人間が判断であることを知覚しなくなった判断を、
+再び判断として知覚可能なものとして露出させることにある。
 
-JTP exists to preserve awareness of where judgment exists, how it is displaced,
-and how human agency is reconfigured through that displacement.
+それは、責任の所在を確定するためでも、
+制度を最適化するためでもなく、
+判断がどこに存在し、どのように人間から離れていったのかを
+見失わないための認識の地盤を保持することである。
 
-Any derivative interpretation, application, or implementation must clearly distinguish
-itself from this original formulation and must not be represented as completing,
-superseding, or redefining JTP.
+本原則から派生するいかなる解釈、応用、実装も、
+本書と明確に区別されなければならず、
+本原則を完成・上書き・再定義するものとして
+表現されてはならない。
 
-This document retains normative primacy over all derivative discussions of JTP.
+本書は、JTPに関するすべての派生的議論に対して、
+規範的原典としての優先性を保持する。
 
-This document has equal normative effect in all language versions.
+本原則は、すべての言語版において等しい規範的効力を有する。
