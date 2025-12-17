@@ -5,9 +5,10 @@ authors:
     given-names: Daiki
 abstract: >
   A foundational normative principle asserting that systems affecting
-  human actions or outcomes must make the existence and delegation of
-  judgment perceivable to the user, and that enforcing outcomes based on
-  imperceptible judgments undermines human agency and responsibility.
+  human actions or outcomes must make the existence, boundary, and
+  delegation of judgment perceivable to the user, and that enforcing
+  outcomes based on imperceptible judgments undermines human agency
+  and responsibility.
 keywords:
   - judgment transparency
   - human agency
