@@ -1,118 +1,165 @@
-Judgment Transparency Principle
+# Judgment Transparency Principle (JTP)
 
-Version 1.0
+## Overview
 
-⸻
+**Judgment Transparency Principle (JTP)** is a **normative principle** concerning human–system interaction.
 
-About
+It asserts that when a system affects human actions or outcomes,  
+**the existence, boundary, and delegation of judgment must be perceivable to the human user**.
 
-This repository contains the original and authoritative formulation of the
-Judgment Transparency Principle (JTP).
+JTP does **not** prescribe how systems should decide.  
+It addresses **how human responsibility and agency are altered when judgments become imperceptible**.
 
-本リポジトリは、
-**判断透明性原則（Judgment Transparency Principle, JTP）**の
-**原典（Original Source）かつ正本（Authoritative Reference）**を収録する。
+---
 
-JTP is a normative principle that defines how systems must present judgments
-that affect human actions, outcomes, or responsibilities.
+## What This Is — and What It Is Not
 
-It is not an implementation, framework, product, or specification.
+### This document **is**:
+- A **normative principle**
+- An **original formulation** defining a conceptual boundary
+- A foundation for **observation, discussion, and critique**
 
-⸻
+### This document **is not**:
+- ❌ An implementation specification  
+- ❌ A UI or UX guideline  
+- ❌ An AI safety guarantee  
+- ❌ A certification, checklist, or compliance framework  
+- ❌ A claim about AI autonomy or “AI behavior”  
 
-Purpose
+**JTP does not evaluate systems.  
+It exposes when humans misperceive what was already decided.**
 
-The purpose of this repository is to:
-	•	Establish a stable point of reference for the Judgment Transparency Principle
-	•	Preserve the original wording and intent of the principle
-	•	Enable citation, discussion, critique, and implementation without altering the original definition
+---
 
-This repository exists to prevent:
-	•	Ambiguous reinterpretation
-	•	Silent mutation of meaning
-	•	Loss of authorship or provenance
+## Core Statement (Original Definition)
 
-⸻
+> Systems that influence human actions or outcomes must make the existence, boundary,  
+> and delegation of judgment perceivable to the human user.  
+>  
+> Enforcing outcomes based on imperceptible judgments undermines human agency  
+> by causing humans to forget what was already decided.
 
-Document Order of Authority
+This is the **only authoritative definition** of JTP.
 
-The following documents define the Judgment Transparency Principle,
-in descending order of authority.
+---
 
-In the event of any inconsistency, higher-order documents prevail.
-	1.	JTP.md
-Original text (English, normative)
-	2.	JTP_ja.md
-原典（日本語、正規訳）
+## Scope and Intent
 
-All other files in this repository are non-normative and provided solely for:
-	•	citation
-	•	licensing
-	•	metadata
-	•	distribution support
+JTP does **not** demand that judgment be returned to humans.  
+It demands that **delegation itself be perceivable**.
 
-⸻
+The principle applies across domains, including but not limited to:
+- Automated moderation and enforcement
+- Algorithmic decision-making
+- AI-assisted judgment systems
+- Human–machine interfaces
 
-Versioning Policy
+Its purpose is **not correction**, but **exposure**:
+to reveal when responsibility is silently displaced.
 
-This repository defines Version 1.0 of the Judgment Transparency Principle.
-	•	This version represents the original formulation
-	•	Future discussions, extensions, or applications do not modify this definition
-	•	Any derivative work must explicitly reference this version as the origin
+---
 
-There is no roadmap for future versions in this repository.
+## Non-Standardization and Non-Compliance Notice
 
-⸻
+Judgment Transparency Principle **must not** be standardized, certified, or treated as a compliance target.
 
-Scope and Non-Scope
+- There is **no such thing** as “JTP-compliant” systems.
+- JTP must **not** be converted into:
+  - ISO / IEEE standards
+  - Evaluation metrics
+  - Checklists or design requirements
+- Any attempt to operationalize JTP as a standard **misrepresents its nature**.
 
-In Scope
-	•	Conceptual definition of judgment transparency
-	•	Normative design requirements
-	•	Ethical and structural implications
+JTP exists to **destabilize forgotten judgments**,  
+not to stabilize institutional criteria.
 
-Out of Scope
-	•	Technical implementations
-	•	UI/UX guidelines
-	•	Algorithms or model architectures
-	•	Compliance checklists
-	•	Regulatory interpretations
+---
 
-⸻
+## Interpretation and Derivative Works
 
-License
+This repository defines the **original formulation** of the Judgment Transparency Principle.
 
-This work is licensed under the
-Creative Commons Attribution 4.0 International (CC BY 4.0).
+- Interpretations, discussions, or applications may extend this work,
+  **but must not be represented as altering or superseding the original definition**.
+- Use of the names **“Judgment Transparency Principle”** or **“JTP”**
+  implies reference to this original formulation.
 
-The license applies to:
-	•	the text
-	•	the conceptual definition
-	•	the normative framing
+Derivative works must clearly distinguish:
+- interpretation from definition  
+- application from principle  
 
-No patent rights are granted or implied.
+---
 
-See LICENSE for the full license text.
+## Language Versions
 
-⸻
+This document has **equal normative effect in all language versions**.
 
-Attribution
+No language version supersedes another.  
+All translations are anchored to the same original principle.
 
-When referencing or citing this work, use the following attribution:
+---
 
-“Judgment Transparency Principle (JTP), Version 1.0”
-by Daiki Kadowaki (2025)
+## Relation to Implementations and Patents
 
-⸻
+JTP is **independent of any implementation**.
 
-Status
+Specific systems or techniques — including patented technologies —
+may serve as **observational examples**,  
+but they do **not** define, complete, or constrain the principle itself.
 
-This repository is intentionally minimal and stable.
+The principle remains valid **with or without implementations**.
 
-Silence does not imply abandonment.
-Stability does not imply completion.
+---
 
-⸻
+## License
+
+This work is licensed under  
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material, including commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit,  
+  provide a link to the license, and indicate if changes were made.
+- Attribution must not imply endorsement by the original author.
+
+**Name usage notice**:  
+Attribution does not grant the right to represent modified interpretations  
+as the Judgment Transparency Principle itself.
+
+---
+
+## Attribution
+
+When referencing this work, please use:
+
+> **Judgment Transparency Principle (JTP), Version 1.0**  
+> Daiki Kadowaki (2025)
+
+---
+
+## Status
+
+Version 1.0 — Original formulation  
+This principle is **intentionally incomplete** and **cannot be finalized**.
+
+Its role is to remain a point of tension  
+where human responsibility would otherwise disappear.
+
+---
+
+## Repository Purpose
+
+This repository exists to:
+- Preserve the original formulation
+- Prevent silent redefinition
+- Provide a stable reference point
+
+It is **not** intended to conclude debate,  
+but to ensure that debate does not erase its origin.
+
+---
 
 © 2025 Daiki Kadowaki
-
