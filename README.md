@@ -2,17 +2,17 @@
 
 ## Overview
 
-**Judgment Transparency Principle (JTP)** is a **normative principle** concerning human–system interaction.
+**Judgment Transparency Principle (JTP)** is a **normative principle** concerning human-system interaction.
 
-It asserts that when a system affects human actions or outcomes,  
+It asserts that when a system affects human actions or outcomes,
 **the existence, boundary, and delegation of judgment must be perceivable to the human user**.
 
-JTP does **not** prescribe how systems should decide.  
+JTP does **not** prescribe how systems should decide.
 It addresses **how human responsibility and agency are altered when judgments become imperceptible**.
 
 ---
 
-## What This Is — and What It Is Not
+## What This Is -- and What It Is Not
 
 ### This document **is**:
 - A **normative principle**
@@ -20,23 +20,23 @@ It addresses **how human responsibility and agency are altered when judgments be
 - A foundation for **observation, discussion, and critique**
 
 ### This document **is not**:
-- ❌ An implementation specification  
-- ❌ A UI or UX guideline  
-- ❌ An AI safety guarantee  
-- ❌ A certification, checklist, or compliance framework  
-- ❌ A claim about AI autonomy or “AI behavior”  
+- [NO] An implementation specification
+- [NO] A UI or UX guideline
+- [NO] An AI safety guarantee
+- [NO] A certification, checklist, or compliance framework
+- [NO] A claim about AI autonomy or "AI behavior"
 
-**JTP does not evaluate systems.  
+**JTP does not evaluate systems.
 It exposes when humans misperceive what was already decided.**
 
 ---
 
 ## Core Statement (Original Definition)
 
-> Systems that influence human actions or outcomes must make the existence, boundary,  
-> and delegation of judgment perceivable to the human user.  
->  
-> Enforcing outcomes based on imperceptible judgments undermines human agency  
+> Systems that influence human actions or outcomes must make the existence, boundary,
+> and delegation of judgment perceivable to the human user.
+>
+> Enforcing outcomes based on imperceptible judgments undermines human agency
 > by causing humans to forget what was already decided.
 
 This is the **only authoritative definition** of JTP.
@@ -45,14 +45,14 @@ This is the **only authoritative definition** of JTP.
 
 ## Scope and Intent
 
-JTP does **not** demand that judgment be returned to humans.  
+JTP does **not** demand that judgment be returned to humans.
 It demands that **delegation itself be perceivable**.
 
 The principle applies across domains, including but not limited to:
 - Automated moderation and enforcement
 - Algorithmic decision-making
 - AI-assisted judgment systems
-- Human–machine interfaces (HMI)
+- Human-machine interfaces (HMI)
 
 Its purpose is **not correction**, but **exposure**:
 to reveal when responsibility is silently displaced.
@@ -69,7 +69,7 @@ The Judgment Transparency Principle (JTP) exists in a **category distinct** from
 - **Role as a Reference**:
   External organizations or standards bodies are not prevented from referencing JTP as a **foundational philosophy**. Indeed, JTP is intended to serve as a starting point for such discourse.
 
-However, no guideline, system, or implementation may claim to **"fully satisfy"** JTP.  
+However, no guideline, system, or implementation may claim to **"fully satisfy"** JTP.
 Doing so would serve as an indulgence that conceals the very displacement of judgment JTP seeks to expose.
 This position does not prohibit discussion, academic citation, or reference to JTP as a conceptual framework.
 
@@ -87,7 +87,7 @@ For derivative works (guidelines, tools, systems, etc. that reference JTP), the 
     Explicitly state that the derivative work is **not** JTP itself, nor an authoritative implementation of it.
 
 Recommended phrasing:
-> *"This work is inspired by / references the Judgment Transparency Principle (JTP), but operates as an independent interpretation."*
+> "This work is inspired by / references the Judgment Transparency Principle (JTP), but operates as an independent interpretation."
 
 ---
 
@@ -95,7 +95,7 @@ Recommended phrasing:
 
 This document has **equal normative effect in all language versions**.
 
-No language version supersedes another.  
+No language version supersedes another.
 All translations are anchored to the same original principle.
 
 ---
@@ -104,7 +104,7 @@ All translations are anchored to the same original principle.
 
 JTP is **independent of any implementation**.
 
-Specific systems, techniques, or patents may serve as **observational instances** of the principle,  
+Specific systems, techniques, or patents may serve as **observational instances** of the principle,
 but they do **not** define, complete, or constrain the principle itself.
 
 **Reference for Substantiation (Proof of Feasibility):**
@@ -119,20 +119,20 @@ The principle remains valid **with or without implementations**.
 
 ## License
 
-This work is licensed under  
+This work is licensed under
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
 You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material, including commercially
+- Share -- copy and redistribute the material in any medium or format
+- Adapt -- remix, transform, and build upon the material, including commercially
 
 Under the following terms:
-- **Attribution** — You must give appropriate credit,  
+- **Attribution** -- You must give appropriate credit,
   provide a link to the license, and indicate if changes were made.
 - Attribution must not imply endorsement by the original author.
 
-**Name usage notice**:  
-Attribution does not grant the right to represent modified interpretations  
+**Name usage notice**:
+Attribution does not grant the right to represent modified interpretations
 as the Judgment Transparency Principle itself.
 
 ---
@@ -147,11 +147,11 @@ When referencing this work, please use:
 
 ## Status
 
-**Version 1.0 — Original Formulation**
+**Version 1.0 -- Original Formulation**
 
 This principle is **intentionally incomplete** and **cannot be finalized**.
 
-Its role is to remain a point of tension  
+Its role is to remain a point of tension
 where human responsibility would otherwise disappear.
 
 ---
@@ -163,9 +163,9 @@ This repository exists to:
 - Prevent silent redefinition
 - Provide a stable reference point
 
-It is **not** intended to conclude debate,  
+It is **not** intended to conclude debate,
 but to ensure that debate does not erase its origin.
 
 ---
 
-© 2025 Daiki Kadowaki
+(c) 2025 Daiki Kadowaki
