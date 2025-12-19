@@ -71,6 +71,7 @@ The Judgment Transparency Principle (JTP) exists in a **category distinct** from
 
 However, no guideline, system, or implementation may claim to **"fully satisfy"** JTP.  
 Doing so would serve as an indulgence that conceals the very displacement of judgment JTP seeks to expose.
+This position does not prohibit discussion, academic citation, or reference to JTP as a conceptual framework.
 
 ---
 
