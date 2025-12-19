@@ -21,7 +21,7 @@ Perceivability does not require constant exposure, full internal disclosure, or 
 It requires that the judgment becomes perceivable at the moment it materially affects the user.
 
 User
-The user is any human agent whose actions or decisions are constrained, overridden, accepted, or rejected by the system’s judgment.
+The user is any human agent whose actions or decisions are constrained, overridden, accepted, or rejected by the system's judgment.
 
 ---
 
@@ -33,7 +33,7 @@ It applies to interactive systems including, but not limited to:
 - Digital games and competitive simulations
 - Networked or distributed interactive systems
 - XR, VR, AR, and cross-reality environments
-- Human–machine interfaces that mediate action, control, or consequence
+- Human-machine interfaces that mediate action, control, or consequence
 
 The principle applies regardless of implementation details, computational models, or architectural choices.
 
@@ -45,7 +45,7 @@ This principle does not mandate constant visualization, permanent overlays, or e
 
 This principle does not prohibit abstraction, automation, prediction, or latency compensation.
 
-This principle requires only that when a judgment materially affects the user’s outcome, the existence and nature of that judgment are perceivable to the user.
+This principle requires only that when a judgment materially affects the user's outcome, the existence and nature of that judgment are perceivable to the user.
 
 A system that enforces outcomes while concealing the operative judgment violates this principle, regardless of intent, optimization goals, or user benefit claims.
 
