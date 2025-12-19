@@ -52,41 +52,41 @@ The principle applies across domains, including but not limited to:
 - Automated moderation and enforcement
 - Algorithmic decision-making
 - AI-assisted judgment systems
-- Human–machine interfaces
+- Human–machine interfaces (HMI)
 
 Its purpose is **not correction**, but **exposure**:
 to reveal when responsibility is silently displaced.
 
 ---
 
-## Non-Standardization and Non-Compliance Notice
+## Position on Standardization and Compliance
 
-Judgment Transparency Principle **must not** be standardized, certified, or treated as a compliance target.
+The Judgment Transparency Principle (JTP) exists in a **category distinct** from standardization, certification, or compliance frameworks.
 
-- There is **no such thing** as “JTP-compliant” systems.
-- JTP must **not** be converted into:
-  - ISO / IEEE standards
-  - Evaluation metrics
-  - Checklists or design requirements
-- Any attempt to operationalize JTP as a standard **misrepresents its nature**.
+- **Non-Conformity**:
+  JTP is a principle designed to maintain ethical tension and cannot be reduced to a fixed standard. Concepts such as "JTP Compliant" or "JTP Certified" fundamentally misrepresent and trivialize the nature of the principle.
 
-JTP exists to re-render perceptible judgments that have faded from human awareness,
-not to stabilize institutional criteria.
+- **Role as a Reference**:
+  External organizations or standards bodies are not prevented from referencing JTP as a **foundational philosophy**. Indeed, JTP is intended to serve as a starting point for such discourse.
+
+However, no guideline, system, or implementation may claim to **"fully satisfy"** JTP.  
+Doing so would serve as an indulgence that conceals the very displacement of judgment JTP seeks to expose.
 
 ---
 
 ## Interpretation and Derivative Works
 
-This repository defines the **original formulation** of the Judgment Transparency Principle.
+This repository defines the **Canonical Formulation** of the Judgment Transparency Principle.
 
-- Interpretations, discussions, or applications may extend this work,
-  **but must not be represented as altering or superseding the original definition**.
-- Use of the names **“Judgment Transparency Principle”** or **“JTP”**
-  implies reference to this original formulation.
+For derivative works (guidelines, tools, systems, etc. that reference JTP), the following distinctions must be made clear:
 
-Derivative works must clearly distinguish:
-- interpretation from definition  
-- application from principle  
+1.  **Attribution to the Source**:
+    Explicitly state that the work is informed by the Judgment Transparency Principle (Version 1.0) by Daiki Kadowaki.
+2.  **Denial of Identity**:
+    Explicitly state that the derivative work is **not** JTP itself, nor an authoritative implementation of it.
+
+Recommended phrasing:
+> *"This work is inspired by / references the Judgment Transparency Principle (JTP), but operates as an independent interpretation."*
 
 ---
 
@@ -103,9 +103,14 @@ All translations are anchored to the same original principle.
 
 JTP is **independent of any implementation**.
 
-Specific systems or techniques — including patented technologies —
-may serve as **observational examples**,  
+Specific systems, techniques, or patents may serve as **observational instances** of the principle,  
 but they do **not** define, complete, or constrain the principle itself.
+
+**Reference for Substantiation (Proof of Feasibility):**
+To demonstrate that this principle is technical reality rather than mere abstraction,
+a specific system configuration by the author has been formally recorded as a **Patent Application (Patent Pending)**.
+This serves not to claim "exclusive rights" over the principle,
+but as a reference point for a **"Materialized Instance."**
 
 The principle remains valid **with or without implementations**.
 
@@ -135,14 +140,14 @@ as the Judgment Transparency Principle itself.
 
 When referencing this work, please use:
 
-> **Judgment Transparency Principle (JTP), Version 1.0**  
-> Daiki Kadowaki (2025)
+> **Judgment Transparency Principle (JTP), Version 1.0** > Daiki Kadowaki (2025)
 
 ---
 
 ## Status
 
-Version 1.0 — Original formulation  
+**Version 1.0 — Original Formulation**
+
 This principle is **intentionally incomplete** and **cannot be finalized**.
 
 Its role is to remain a point of tension  
