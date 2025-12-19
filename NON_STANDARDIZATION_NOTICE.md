@@ -9,7 +9,7 @@ satisfied, enforced, or validated.
 
 Accordingly:
 
-- There is no concept of being “JTP-compliant” or “JTP-conformant.”
+- There is no concept of being "JTP-compliant" or "JTP-conformant."
 - Any attempt to formalize JTP into a standard, checklist, score, or certification scheme
   is incompatible with the nature of this principle.
 - No organization, institution, or authority may claim ownership, custodianship,
