@@ -135,8 +135,7 @@ by the original author.
 
 When referencing the Judgment Transparency Principle, please use:
 
-Judgment Transparency Principle (JTP), Version 1.0  
-Daiki Kadowaki (2025)
+Kadowaki, Daiki (2025). The Judgment Transparency Principle (JTP): A Foundational Normative Framework for Human-System Interaction. SSRN.
 
 ---
 
