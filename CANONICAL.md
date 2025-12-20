@@ -5,5 +5,6 @@ Canonical Reference
 This repository does not redefine, alter, or supersede that formulation. Any future discussions, applications, translations, or extensions referenced here are subordinate to the original definition as articulated in the SSRN publication.
 
  Canonical Source:
- The Judgment Transparency Principle (JTP): A Foundational Normative Framework for Human-System Interaction (SSRN)
+ Judgment Transparency Principle (JTP)
+Daiki Kadowaki (2025)
 
