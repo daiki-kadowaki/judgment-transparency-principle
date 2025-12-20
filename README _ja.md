@@ -145,7 +145,9 @@ JTPは、いかなる実装からも独立している。
 
 判断透明性原則を参照する際は、以下を使用すること：
 
-Kadowaki, Daiki (2025). The Judgment Transparency Principle (JTP): A Foundational Normative Framework for Human-System Interaction. SSRN.
+
+Judgment Transparency Principle (JTP)
+Daiki Kadowaki (2025)
 
 ---
 
