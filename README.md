@@ -166,3 +166,6 @@ but to ensure that debate does not erase its origin.
 ---
 
 © 2025 Daiki Kadowaki
+
+Reference implementation related to the Judgment Transparency Principle (JTP).
+For licensing or implementation inquiries, please contact the author.
