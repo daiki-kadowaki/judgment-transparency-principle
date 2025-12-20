@@ -1,10 +1,9 @@
 Version 1.0
 
-This document defines the original formulation of the Judgment Transparency Principle.
+The original formulation of the Judgment Transparency Principle (JTP)
+is defined in the canonical paper published on SSRN.
 
-Future discussions, applications, translations, or extensions may elaborate on,
-interpret, or apply this principle, but they do not alter, replace, or supersede
-this original definition.
-
-No subsequent document, version, or interpretation supersedes this text as the
-original articulation of the Judgment Transparency Principle.
+This repository does not redefine or supersede that formulation.
+Future discussions, applications, translations, or extensions
+referenced here do not alter, replace, or supersede
+the original definition as articulated in the SSRN publication.
