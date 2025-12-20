@@ -164,8 +164,9 @@ It is not intended to conclude debate,
 but to ensure that debate does not erase its origin.
 
 ---
+A reference implementation related to the Judgment Transparency Principle (JTP) proposed in this paper exists.
+For inquiries regarding the use or implementation of this reference implementation, please contact the author.
+
 
 © 2025 Daiki Kadowaki
 
-Reference implementation related to the Judgment Transparency Principle (JTP).
-For licensing or implementation inquiries, please contact the author.
