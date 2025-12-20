@@ -86,7 +86,7 @@ or interpretive use of JTP.
 This repository does not redefine JTP.
 
 Derivative works that reference the Judgment Transparency Principle should:
-1. Attribute the principle to its original formulation (Version 1.0).
+1. Attribute the principle to its original formulation.
 2. Clearly state that the work is an independent interpretation
    and not the principle itself.
 
@@ -141,7 +141,7 @@ Daiki Kadowaki (2025)
 
 ## Status
 
-**Version 1.0 - Canonical Formulation (Record)**
+**Canonical Formulation (Record)**
 
 The authoritative formulation of JTP
 is defined in the original SSRN publication.
