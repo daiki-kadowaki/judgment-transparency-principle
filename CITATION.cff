@@ -1,31 +1,40 @@
-cff-version: 1.2.0
+Cff-version: 1.2.0
+
 title: "Judgment Transparency Principle"
+
 authors:
   - family-names: Kadowaki
     given-names: Daiki
+
 abstract: >
-  A foundational normative principle asserting that systems affecting
-  human actions or outcomes must make the existence, boundary, and
-  delegation of judgment perceivable to the user, and that enforcing
-  outcomes based on imperceptible judgments undermines human agency
+  A foundational normative principle concerning human-system interaction,
+  asserting that systems affecting human actions or outcomes must make
+  the existence, boundary, and delegation of judgment perceivable to the user.
+  Enforcing outcomes based on imperceptible judgments undermines human agency
   and responsibility.
+
 keywords:
   - judgment transparency
+  - delegation of judgment
   - human agency
   - AI governance
-  - human-machine interface
+  - human-machine interaction
   - explainability
   - decision-making systems
+
 license: CC-BY-4.0
-repository-code: https://github.com/daiki-kadowaki/judgment-transparency-principle
+
+version: 1.0
+date-released: 2025-12-20
+
 preferred-citation:
-  type: generic
+  type: article
   authors:
     - family-names: Kadowaki
       given-names: Daiki
-  title: "Judgment Transparency Principle"
-  version: 1.0
+  title: "The Judgment Transparency Principle (JTP): A Foundational Normative Framework for Human-System Interaction"
   year: 2025
-  url: https://github.com/daiki-kadowaki/judgment-transparency-principle
-version: 1.0
-date-released: 2025-12-20
+  note: "Canonical formulation published as an SSRN preprint"
+  url: https://ssrn.com/abstract=XXXXXXXX
+
+repository-code: https://github.com/daiki-kadowaki/judgment-transparency-principle
