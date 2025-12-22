@@ -65,6 +65,12 @@ JTPは、判断を人間に戻すことを要求しない。
 その目的は修正ではなく露出である。
 責任が静かに置換される瞬間を可視化することにある。
 
+後続の議論においては、
+「不可視な判断（invisible judgment）」、
+「エージェンシーの誤帰属（agency misattribution）」、
+「知覚不可能な介入（imperceptible intervention）」
+といった用語が用いられることがある。
+
 ---
 
 ## 標準・ガイドライン・政策との関係 (Relation to Standards)
