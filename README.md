@@ -62,6 +62,10 @@ The principle applies across domains, including but not limited to:
 Its purpose is not correction but exposure:
 to reveal when responsibility is silently displaced.
 
+Related terms sometimes used in later discussions include:
+"invisible judgment", "agency misattribution", and
+"imperceptible intervention."
+
 ---
 
 ## Relation to Standards, Guidelines, and Policy
