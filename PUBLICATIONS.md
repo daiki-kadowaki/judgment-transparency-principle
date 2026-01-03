@@ -2,6 +2,8 @@
 
 This document provides the authoritative links to the foundational papers defining the Judgment Transparency Principle (JTP) and its conceptual extensions.
 
+**Status: Awaiting SSRN Publication (Temporary Archive)**
+
 [Access PDF via Google Drive]
 https://drive.google.com/drive/folders/1fSRuCz3iFcdV361K0Uin-vP49MJQYGld
 
