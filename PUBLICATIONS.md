@@ -2,6 +2,9 @@
 
 This document provides the authoritative links to the foundational papers defining the Judgment Transparency Principle (JTP) and its conceptual extensions.
 
+[Access PDF via Google Drive]
+https://drive.google.com/drive/folders/1fSRuCz3iFcdV361K0Uin-vP49MJQYGld
+
 ### 1. The Core Principle
 **The Judgment Transparency Principle (JTP): A Foundational Normative Framework for Human-System Interaction**
 > [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5944516](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5944516)
