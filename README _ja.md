@@ -1,5 +1,6 @@
 # 判断透明性原則
 # Judgment Transparency Principle (JTP)
+![IMG_1397](https://github.com/user-attachments/assets/c8d86c80-1647-4388-9e4f-f4f72a0b8ad7)
 
 ## 概要 (Overview)
 
