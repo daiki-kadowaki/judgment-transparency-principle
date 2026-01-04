@@ -1,5 +1,7 @@
 # Judgment Transparency Principle (JTP)
 
+![IMG_1397](https://github.com/user-attachments/assets/efd3a39a-0f8e-4359-af2b-ca3954577efd)
+
 ## Overview
 
 The Judgment Transparency Principle (JTP) is a normative principle concerning
