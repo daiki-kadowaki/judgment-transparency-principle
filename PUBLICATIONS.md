@@ -24,7 +24,7 @@ https://drive.google.com/drive/folders/1fSRuCz3iFcdV361K0Uin-vP49MJQYGld
 > [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5953815](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5953815)
 > *An extension of JTP into the domain of ontological deception, framing seamlessness as a mechanism of deskilling.*
 
-### 4. The Engineering Specification (Whitepaper)
+### 4. The Engineering Specification V1 (Whitepaper)
 **Technical Implementation of Adaptive Feedback Modulation: Formalizing Algorithm 1 and State Discrepancy (D)**
 > [https://doi.org/10.5281/zenodo.18206943](https://doi.org/10.5281/zenodo.18206943)
 > *The practical engineering bridge for JTP. Provides the formal specifications for measuring AI intervention and implementing Ghost Interfaces within production pipelines.*
